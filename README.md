@@ -9,8 +9,6 @@ Página web responsiva com um design simples, composta por um cabeçalho com uma
 * Considerações: Fazer minha primeira Quest do curso DevQuest foi uma experiência muito boa para mim, pois fiz ela em pouco tempo e fiquei feliz com o resultado final. A parte da análise de como criar as divs para não ter problema com o CSS deu muito certo da maneira que eu pensei e analisei, fazendo assim a parte do CSS não ser tão complicada na hora da estilização. Minha maior dificuldade foi mesmo na hora de torná-la responsiva, como citado acima, porém cheguei a um resultado que me deixou contente. Que venham mais e mais desafios nessa jornada de Desenvolvimento Web !
 
 
-## Print do Projeto (desktop):
+## Resultado final do projeto:
 
-![]()
-
-## Print do Projeto (mobile):
+![](https://github.com/marcosjoaosch/quest-html-css-avancado/blob/main/src/images/Anima%C3%A7%C3%A3o.gif)
